@@ -11,3 +11,6 @@ https://github.com/Scrappers-glitch/test_platform_channels/blob/4b1e53c92e83715f
 
 - Dart Part : 
 https://github.com/Scrappers-glitch/test_platform_channels/blob/4b1e53c92e83715f86d6071668c96b382f2b200a/lib/main.dart#L59
+
+- Docs : 
+https://docs.flutter.dev/development/platform-integration/platform-channels
